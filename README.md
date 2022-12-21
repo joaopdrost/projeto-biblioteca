@@ -1,4 +1,4 @@
-# Projeto feito por Afonso Daniel e  João Pedro
+
 
 Foi utilizado o bd browser como banco de dados 
 
